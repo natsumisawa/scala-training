@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/scala-monado-day.iml" filepath="$PROJECT_DIR$/.idea/scala-monado-day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functor-day.iml" filepath="$PROJECT_DIR$/.idea/modules/functor-day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functor-day-build.iml" filepath="$PROJECT_DIR$/.idea/modules/functor-day-build.iml" />
     </modules>
   </component>
 </project>

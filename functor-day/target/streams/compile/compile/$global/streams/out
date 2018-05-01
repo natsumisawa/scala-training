@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sawanatsumi/workspace/scala-training/functor-day/Functor.scala:83:13: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Seq[Either[RuntimeException,String]][0m
+[0m[[0m[31merror[0m] [0m[0m required: List[Either[Exception,String]][0m
+[0m[[0m[31merror[0m] [0m[0m    list.map(_.toRight(new RuntimeException("Illegal number")))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sawanatsumi/workspace/scala-training/functor-day/Functor.scala:78:17: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0m  import scalaz._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
